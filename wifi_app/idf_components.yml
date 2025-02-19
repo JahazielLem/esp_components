@@ -1,0 +1,5 @@
+dependencies:
+  idf: '>=4.4'
+description: Wifi APP
+url: https://github.com/JahazielLem/esp_components/tree/main/wifi_app
+version: 1.0.0
