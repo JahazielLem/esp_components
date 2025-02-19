@@ -1,0 +1,5 @@
+dependencies:
+  idf: '>=4.4'
+description: Trackers Scann
+url: https://github.com/JahazielLem/esp_components/tree/main/trackers_scanner
+version: 1.0.0
